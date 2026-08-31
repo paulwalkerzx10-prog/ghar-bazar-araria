@@ -1,0 +1,6 @@
+{
+  "name": "Ghar bazzar",
+  "description": "A modern grocery delivery app with real-time location capture, secure user profiles, and order tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
